@@ -15,7 +15,7 @@ h1{
     width: 50%
 }
 .half-width img{
-    width:70%
+    width:100%
 }
 .flexible-display{
     display: flex;
