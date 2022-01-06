@@ -17,7 +17,7 @@ h1{
 .half-width img{
     width:70%
 }
-.flexibel-display{
+.flexible-display{
     display: flex;
 }
 #left-border{
@@ -30,14 +30,14 @@ h1{
     background-image: linear-gradient(rgb(171, 46, 202),rgb(153, 115, 109));
     padding: 10px 30px;
     border: none;
-    color: rgb(10, 3, 17);
+    color: white;
     font-size: 16px;
     display: inline-block; 
     border-radius: 5px;
 }
 .box-style1{
     width: 33.33%;
-    margin-left: 5%;
+    margin-left: 7%;
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 10px;
@@ -46,7 +46,7 @@ h1{
 }
 .box-style2{
     width: 33.33%;
-    margin-left: 5%;
+    margin-left: 7%;
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 10px;
@@ -55,7 +55,7 @@ h1{
 }
 .box-style3{
     width: 33.33%;
-    margin-left: 5%;
+    margin-left: 7%;
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 10px;
@@ -87,4 +87,22 @@ h1{
 .style{
     width:100px;
     height:100px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 40%;
+}
+.image-size{
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 10%;
+    width:500px;
+    height:350px;
+}
+.back-img{
+    background-image: url(images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
