@@ -64,3 +64,23 @@
   padding: 10px;
   
 }
+.plan-1{
+    margin: 50px;
+    margin-left: 100px;
+    background-color: rgb(217, 200, 200);
+    padding: 35px;    
+}
+.plan-2{
+    margin: 50px;
+    background-color: rgb(111, 159, 159);
+    padding: 35px;    
+}
+.plan-3{
+    margin: 50px;
+    margin-right: 100px;
+    background-color: rgb(130, 233, 233);
+    padding: 35px;    
+}
+.pti{
+    display: flex;
+}
